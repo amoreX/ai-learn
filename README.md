@@ -7,9 +7,7 @@ This repository serves as a collection of AI and machine learning projects, mode
 - [Projects](#projects)
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 

@@ -1,0 +1,7 @@
+first-model-sentiment-analysis/results/
+first-model-sentiment-analysis/my_sentiment_model/
+first-model-sentiment-analysis/sentiment_analysis_test.jsonl
+first-model-sentiment-analysis/sentiment_analysis_train.jsonl
+first-model-sentiment-analysis/sentiment_analysis_validation.jsonl
+first-model-sentiment-analysis/practice.ipynb
+

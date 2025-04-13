@@ -8,7 +8,6 @@ This repository serves as a collection of AI and machine learning projects, mode
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-
 ---
 
 ## Projects
@@ -30,6 +29,7 @@ This repository serves as a collection of AI and machine learning projects, mode
   - Deployment via Hugging Face pipelines with custom label mapping.
 - **Directory**: `suicide-detection/`
 - **Output**: Fine-tuned model saved in `my_suicide_buddy/`.
+- **Model Link**: "amor3x/my_suicide_buddy"
 
 ### 3. **Third Model: Mental Health Sentiment Analysis**
 - **Description**: Mental Sentiment model finetuned on the `distilbert/distilbert-base-uncased` transformer model.
@@ -39,6 +39,7 @@ This repository serves as a collection of AI and machine learning projects, mode
   - Deployment via Hugging Face pipelines with custom label mapping.
 - **Directory**: `mental-health/`
 - **Output**: Fine-tuned model saved in `mental_health_bud/`.
+- **Model Link**: "amor3x/mental_health_bud"
 
 ---
 

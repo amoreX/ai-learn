@@ -31,6 +31,15 @@ This repository serves as a collection of AI and machine learning projects, mode
 - **Directory**: `suicide-detection/`
 - **Output**: Fine-tuned model saved in `my_suicide_buddy/`.
 
+### 3. **Third Model: Mental Health Sentiment Analysis**
+- **Description**: Mental Sentiment model finetuned on the `distilbert/distilbert-base-uncased` transformer model.
+- **Key Features**:
+  - Dataset preparation and filtering using `json2jsonl.py` and `trainingModel.ipynb`.
+  - Fine-tuning the model for classification (`anxiety` , `normal` , `bipolar` , `depression` and `suicidal`).
+  - Deployment via Hugging Face pipelines with custom label mapping.
+- **Directory**: `mental-health/`
+- **Output**: Fine-tuned model saved in `mental_health_bud/`.
+
 ---
 
 ## Getting Started

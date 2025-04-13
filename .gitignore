@@ -10,3 +10,8 @@ suicide-detection/datasets/Suicide_Detection.csv
 
 suicide-detection/results/
 suicide-detection/my_suicide_buddy/
+
+mental-health/dataset/all_data.json
+mental-health/dataset/all_data.jsonl
+mental-health/results/
+mental-health/mental_health_bud/

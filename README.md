@@ -56,5 +56,10 @@ Each project may have its own dependencies. Below are the general requirements:
 - Datasets library
 - Additional libraries as specified in individual project directories.
 
+## Tools
+- https://codebeautify.org/csv-to-json-converter FOR csv to JSON
+- Hugging face for models and datasets
+- Kaggle for Datasets 
+
 ## Contributing
 Contributions are welcome! If you'd like to add a new project or improve an existing one:

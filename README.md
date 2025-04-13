@@ -63,3 +63,6 @@ Each project may have its own dependencies. Below are the general requirements:
 
 ## Contributing
 Contributions are welcome! If you'd like to add a new project or improve an existing one:
+
+## Command to Upload Model to HuggingFace
+$ huggingface-cli repo create my_suicide_buddy

@@ -22,10 +22,14 @@ This repository serves as a collection of AI and machine learning projects, mode
 - **Directory**: `first-model-sentiment-analysis/`
 - **Output**: Fine-tuned model saved in `my_sentiment_model/`.
 
-### 2. **[Future Project Placeholder]**
-- **Description**: Add details about your next project here.
-- **Directory**: `project-name/`
-- **Output**: Specify the output or results of the project.
+### 2. **Second Model: Suicide Detection**
+- **Description**: A suicide detection model fine-tuned on the `distilbert-base-uncased-finetuned-sst-2-english` transformer model.
+- **Key Features**:
+  - Dataset preparation and filtering using `json2jsonl.py` and `trainingModel.ipynb`.
+  - Fine-tuning the model for binary classification (`non-suicide` and `suicide`).
+  - Deployment via Hugging Face pipelines with custom label mapping.
+- **Directory**: `suicide-detection/`
+- **Output**: Fine-tuned model saved in `my_suicide_buddy/`.
 
 ---
 
@@ -48,6 +52,7 @@ Each project may have its own dependencies. Below are the general requirements:
 - Python 3.x
 - Jupyter Notebook
 - Hugging Face Transformers
+- Kagglehub 
 - Datasets library
 - Additional libraries as specified in individual project directories.
 

@@ -5,4 +5,4 @@ first-model-sentiment-analysis/sentiment_analysis_train.jsonl
 first-model-sentiment-analysis/sentiment_analysis_validation.jsonl
 first-model-sentiment-analysis/practice.ipynb
 
-suicide/detection/datsets/Suicide_Detection.csv
+suicide-detection/datasets/Suicide_Detection.csv

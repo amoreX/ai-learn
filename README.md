@@ -76,3 +76,4 @@ Contributions are welcome! If you'd like to add a new project or improve an exis
 
 ## Command to Upload Model to HuggingFace
 $ huggingface-cli repo create my_suicide_buddy
+$ huggingface-cli upload amor3x/mental_health_bud
